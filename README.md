@@ -1,9 +1,9 @@
 # Portfolio
 
-## Repo
+### Repo
 _username_.github.io
 
-## Struktura plików
+### Struktura plików
 ```
 ├── css
 │   └── style.css
@@ -15,7 +15,7 @@ _username_.github.io
 └── README.md
 ```
 
-## Treść
+### Treść
 - imię i nazwisko
 - tytuł
 - o mnie
@@ -25,16 +25,16 @@ _username_.github.io
   - GitHub
 - kontakt (email)
 
-## Uruchomienie
+### Uruchomienie
 
 branch `master` dostępny pod adresem `https://username.github.io`
 
 <https://pages.github.com>
 
-## Repo projektu
+### Repo projektu
 branch `gh-pages` dostępny pod adresem `http://username.github.io/repository`
 
 <https://pages.github.com>
 
-## Plik README
+### Plik README
 link do strony `https://username.github.io` :rocket:
