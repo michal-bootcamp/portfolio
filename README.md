@@ -3,13 +3,12 @@
 ### Repo
 _username_.github.io
 
-### Struktura plików
+### Przykładowa struktura plików
 ```
 ├── css
 │   └── style.css
 ├── scss
 │   └── style.scss
-├── Gruntfile.js
 ├── index.html
 ├── package.json
 └── README.md
